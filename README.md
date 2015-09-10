@@ -3,7 +3,7 @@ OpenPGP.php: OpenPGP for PHP
 
 This is a pure-PHP implementation of the OpenPGP Message Format (RFC 4880).
 
-* <http://github.com/bendiken/openpgp-php>
+* <https://github.com/PGPLibSMF/PGP-Lib-for-SMF/>
 
 ### About OpenPGP
 
@@ -32,26 +32,3 @@ OpenPGP.php is currently being used in the following projects:
 
 * <http://drupal.org/project/openpgp>
 
-Download
---------
-
-To get a local working copy of the development repository, do:
-
-    % git clone git://github.com/bendiken/openpgp-php.git
-
-Alternatively, you can download the latest development version as a tarball
-as follows:
-
-    % wget http://github.com/bendiken/openpgp-php/tarball/master
-
-Authors
--------
-
-* [Arto Bendiken](mailto:arto.bendiken@gmail.com) - <http://ar.to/>
-* [Stephen Paul Weber](mailto:singpolyma@singpolyma.net) - <http://singpolyma.net/>
-
-License
--------
-
-OpenPGP.php is free and unencumbered public domain software. For more
-information, see <http://unlicense.org/> or the accompanying UNLICENSE file.
